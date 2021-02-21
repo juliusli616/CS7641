@@ -1,0 +1,20 @@
+obesity - Decision Tree final train score: 0.9786729857819905
+obesity - Decision Tree final test score:  0.933806146572104
+obesity - Neural Network final train score: 1.0
+obesity - Neural Network final test score:  0.9645390070921985
+obesity - Adaboost final train score: 0.5130331753554502
+obesity - Adaboost final test score:  0.5200945626477541
+obesity - SVM final train score: 0.9786729857819905
+obesity - SVM final test score:  0.9692671394799054
+obesity - KNN final train score: 1.0
+obesity - KNN final test score:  0.9054373522458629
+online_shopping - Decision Tree final train score: 0.9097729115977291
+online_shopping - Decision Tree final test score:  0.8884833738848338
+online_shopping - Neural Network final train score: 0.8955798864557989
+online_shopping - Neural Network final test score:  0.8852392538523925
+online_shopping - Adaboost final train score: 0.8955798864557989
+online_shopping - Adaboost final test score:  0.8807785888077859
+online_shopping - SVM final train score: 0.8902068126520681
+online_shopping - SVM final test score:  0.8811841038118411
+online_shopping - KNN final train score: 0.878345498783455
+online_shopping - KNN final test score:  0.8641524736415247
