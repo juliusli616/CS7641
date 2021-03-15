@@ -1,0 +1,10 @@
+queen
+RHC: fitting time = 0.236
+SA: fitting time = 0.370
+GA: fitting time = 426.957
+MIMIC: fitting time = 50.135
+knapsack
+RHC: fitting time = 0.016
+SA: fitting time = 0.019
+GA: fitting time = 64.822
+MIMIC: fitting time = 172.224

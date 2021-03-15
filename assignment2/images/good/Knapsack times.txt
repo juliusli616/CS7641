@@ -1,0 +1,4 @@
+RHC: fitting time = 0.017
+SA: fitting time = 0.023
+GA: fitting time = 5.442
+MIMIC: fitting time = 84.988
