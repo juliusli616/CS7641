@@ -18,7 +18,7 @@ python3 main.py
 ## Assignment 2 - Randomized Optimization
 Instruction:
 ```python
-cd assignment1
+cd assignment2
 python3 main.py
 ```
 
