@@ -22,3 +22,10 @@ cd assignment2
 python3 main.py
 ```
 
+## Assignment 3 - UL and DR
+Instruction:
+```python
+cd assignment3
+python3 main.py
+```
+
