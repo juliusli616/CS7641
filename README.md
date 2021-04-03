@@ -4,6 +4,7 @@
 Ensure python3.7 is installed. Use the following command to install necessary packages.
 ```python
 pip3 install -r requirements.txt
+pip3 install mlrose
 ```
 
 
@@ -11,6 +12,13 @@ pip3 install -r requirements.txt
 Instruction:
 ```python
 cd assignment1
+python3 main.py
+```
+
+## Assignment 2 - Randomized Optimization
+Instruction:
+```python
+cd assignment2
 python3 main.py
 ```
 
