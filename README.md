@@ -29,3 +29,15 @@ cd assignment3
 python3 main.py
 ```
 
+## Assignment 4 - RL
+Install the following additional package
+```python
+pip3 install gym
+pip3 install pymdptoolbox
+```
+Instruction:
+```python
+cd assignment4
+python3 main.py
+```
+
